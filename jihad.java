@@ -8,7 +8,7 @@ package jihad;
  *
  * @author Gehad
  */
-public class Jihad {
+public class jihad {
 
     /**
      * @param args the command line arguments
